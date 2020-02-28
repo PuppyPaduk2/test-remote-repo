@@ -7,3 +7,4 @@ export const test5 = 5;
 export const test6 = 6;
 export const test7 = 7;
 export const test8 = 8;
+export const test9 = 9;
